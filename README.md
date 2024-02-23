@@ -1,5 +1,23 @@
 # spresense-projects
 
+## Arduino style projects
+
+All projects in this repository use the Arduino IDE. See 
+<https://developer.sony.com/spresense/development-guides/home_en.html>
+
+## Camera
+
+### camera_test
+
+### doppler-radar
+
+#### Hardware
+
+
+
+## WiFi
+
+
 ## Resources
 
 
